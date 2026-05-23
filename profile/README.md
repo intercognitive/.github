@@ -32,6 +32,12 @@ The working principle is **rough consensus and running code**: proposals should 
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for the IOSP process.
 
+## Working Groups
+
+| Name | Focus | Tags |
+| --- | --- | --- |
+| [Co-Embodiment](https://github.com/intercognitive/co-embodiment) | Exploring how multiple AI systems can safely, economically, and interoperably share sensors, spatial context, actuators, robots, smart glasses, phones, and deployed real-world domains. | Identity, Fees, Maps, Perception, Connectivity, Orchestration, Standards |
+
 ## Ecosystem Repositories
 
 | Name | Description | Tags |
