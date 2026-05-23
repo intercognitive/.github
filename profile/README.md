@@ -24,6 +24,20 @@ Intercognitive focuses on the infrastructure layer for physical AI:
 
 ## Public Repositories
 
+### Auki SDK
+
+[`aukilabs/auki-sdk`](https://github.com/aukilabs/auki-sdk) is the public SDK for building with Auki's decentralized machine perception infrastructure.
+
+The SDK helps developers connect applications, devices, robots, and agents to Auki Network capabilities for shared spatial understanding and real-world AI coordination.
+
+Use cases include:
+
+- Shared spatial awareness for AI and robots
+- Machine perception applications
+- Real-world agent and device coordination
+- Location-aware mixed reality experiences
+- DePIN and physical AI integrations
+
 ### Universal Machine Time
 
 [`Universal-Machine-Time-UMT`](https://github.com/intercognitive/Universal-Machine-Time-UMT) is an onchain implementation of Precision Time Protocol concepts for machine networks.
@@ -56,6 +70,7 @@ Intercognitive brings together builders working on the core primitives of the ma
 
 - Visit [intercognitive.com](https://www.intercognitive.com/)
 - Read about the [pillars of AI accessibility](https://www.intercognitive.com/)
+- Explore the [Auki SDK](https://github.com/aukilabs/auki-sdk)
 - Explore the [Universal Machine Time repository](https://github.com/intercognitive/Universal-Machine-Time-UMT)
 - [Contact the foundation](https://www.intercognitive.com/contact-us)
 
