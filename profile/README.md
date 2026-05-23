@@ -34,33 +34,10 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for the IOSP process.
 
 ## Ecosystem Repositories
 
-### Auki SDK
-
-[`aukilabs/auki-sdk`](https://github.com/aukilabs/auki-sdk) is the public SDK for building with Auki's decentralized machine perception infrastructure.
-
-The SDK helps developers connect applications, devices, robots, and agents to Auki Network capabilities for shared spatial understanding and real-world AI coordination.
-
-Use cases include:
-
-- Shared spatial awareness for AI and robots
-- Machine perception applications
-- Real-world agent and device coordination
-- Location-aware mixed reality experiences
-- DePIN and physical AI integrations
-
-### Universal Machine Time
-
-[`peaqnetwork/Universal-Machine-Time-UMT`](https://github.com/peaqnetwork/Universal-Machine-Time-UMT) is an onchain implementation of Precision Time Protocol concepts for machine networks.
-
-UMT gives machines, drones, vehicles, robots, and devices a shared blockchain-verified time reference for nanosecond-precise coordination.
-
-Use cases include:
-
-- Synchronized robot fleets
-- Consistent timestamps for sensor data
-- Coordinated machine-to-machine actions
-- Time-aware autonomous systems
-- DePIN and physical AI infrastructure
+| Name | Description | Tags |
+| --- | --- | --- |
+| [`aukilabs/auki-sdk`](https://github.com/aukilabs/auki-sdk) | Public SDK for building with Auki's decentralized machine perception infrastructure, shared spatial understanding, and real-world AI coordination. | Identity, Maps, Sensors, Positioning, Connectivity, Orchestration, Standards |
+| [`peaqnetwork/Universal-Machine-Time-UMT`](https://github.com/peaqnetwork/Universal-Machine-Time-UMT) | Onchain implementation of Precision Time Protocol concepts for blockchain-verified machine time and nanosecond-precise coordination. | Sensors, Connectivity, Orchestration, Standards |
 
 ## Ecosystem
 
