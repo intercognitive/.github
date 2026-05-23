@@ -13,12 +13,12 @@ Intercognitive focuses on the infrastructure layer for physical AI:
 | Pillar | Purpose |
 | --- | --- |
 | **Identity** | Verifiable machine, device, robot, and AI agent identities. |
-| **Fees** | Peer-to-peer transactions for machine services, data, compute, and coordination. |
-| **Maps** | Shared spatial maps that help machines understand and navigate the real world. |
-| **Sensors** | Interoperable sensor networks for trusted environmental data. |
+| **Fees** | How machines and agents pay to consume services in the real world. |
+| **Maps** | Shared spatial maps that help machines and agents understand and navigate the real world. |
+| **Perception** | Interoperable sensor standards. |
 | **Positioning** | Precise, resilient, decentralized positioning beyond GPS. |
 | **Compute** | Distributed compute for low-latency physical AI workloads. |
-| **Connectivity** | Reliable decentralized connectivity for always-online machines. |
+| **Connectivity** | How machines and agents access the internet and other networks in the real world. |
 | **Orchestration** | Coordination layers for distributed robots, devices, and AI systems. |
 | **Standards** | Common protocols that make the ecosystem interoperable. |
 
@@ -36,8 +36,8 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for the IOSP process.
 
 | Name | Description | Tags |
 | --- | --- | --- |
-| [`aukilabs/auki-sdk`](https://github.com/aukilabs/auki-sdk) | Public SDK for building with Auki's decentralized machine perception infrastructure, shared spatial understanding, and real-world AI coordination. | Identity, Maps, Sensors, Positioning, Connectivity, Orchestration, Standards |
-| [`peaqnetwork/Universal-Machine-Time-UMT`](https://github.com/peaqnetwork/Universal-Machine-Time-UMT) | Onchain implementation of Precision Time Protocol concepts for blockchain-verified machine time and nanosecond-precise coordination. | Sensors, Connectivity, Orchestration, Standards |
+| [`aukilabs/auki-sdk`](https://github.com/aukilabs/auki-sdk) | Public SDK for building with Auki's decentralized machine perception infrastructure, shared spatial understanding, and real-world AI coordination. | Identity, Maps, Perception, Positioning, Connectivity, Orchestration, Standards |
+| [`peaqnetwork/Universal-Machine-Time-UMT`](https://github.com/peaqnetwork/Universal-Machine-Time-UMT) | Onchain implementation of Precision Time Protocol concepts for blockchain-verified machine time and nanosecond-precise coordination. | Orchestration, Standards |
 
 ## Ecosystem
 
