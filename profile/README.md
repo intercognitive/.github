@@ -22,7 +22,17 @@ Intercognitive focuses on the infrastructure layer for physical AI:
 | **Orchestration** | Coordination layers for distributed robots, devices, and AI systems. |
 | **Standards** | Common protocols that make the ecosystem interoperable. |
 
-## Public Repositories
+## Standards Collaboration
+
+Intercognitive is establishing an open standards process for physical AI and machine networks.
+
+Standards are proposed as **IOSPs: Intercognitive Open Standard Proposals**. An IOSP is a public, versioned proposal for a protocol, interface, data format, conformance requirement, or shared infrastructure standard. It is not an Intercognitive Open Standard until it has passed review and been accepted.
+
+The working principle is **rough consensus and running code**: proposals should be discussed openly, validated by implementation, and promoted through transparent maturity stages.
+
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for the IOSP process.
+
+## Ecosystem Repositories
 
 ### Auki SDK
 
@@ -40,7 +50,7 @@ Use cases include:
 
 ### Universal Machine Time
 
-[`Universal-Machine-Time-UMT`](https://github.com/intercognitive/Universal-Machine-Time-UMT) is an onchain implementation of Precision Time Protocol concepts for machine networks.
+[`peaqnetwork/Universal-Machine-Time-UMT`](https://github.com/peaqnetwork/Universal-Machine-Time-UMT) is an onchain implementation of Precision Time Protocol concepts for machine networks.
 
 UMT gives machines, drones, vehicles, robots, and devices a shared blockchain-verified time reference for nanosecond-precise coordination.
 
@@ -70,8 +80,9 @@ Intercognitive brings together builders working on the core primitives of the ma
 
 - Visit [intercognitive.com](https://www.intercognitive.com/)
 - Read about the [pillars of AI accessibility](https://www.intercognitive.com/)
+- Read the [IOSP contribution process](../CONTRIBUTING.md)
 - Explore the [Auki SDK](https://github.com/aukilabs/auki-sdk)
-- Explore the [Universal Machine Time repository](https://github.com/intercognitive/Universal-Machine-Time-UMT)
+- Explore the [Universal Machine Time repository](https://github.com/peaqnetwork/Universal-Machine-Time-UMT)
 - [Contact the foundation](https://www.intercognitive.com/contact-us)
 
 ---
