@@ -44,6 +44,7 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for the IOSP process.
 | --- | --- | --- |
 | [`aukilabs/auki-sdk`](https://github.com/aukilabs/auki-sdk) | Public SDK for building with Auki's decentralized machine perception infrastructure, shared spatial understanding, and real-world AI coordination. | Identity, Maps, Perception, Positioning, Connectivity, Orchestration, Standards |
 | [`peaqnetwork/Universal-Machine-Time-UMT`](https://github.com/peaqnetwork/Universal-Machine-Time-UMT) | Onchain implementation of Precision Time Protocol concepts for blockchain-verified machine time and nanosecond-precise coordination. | Orchestration, Standards |
+| [`geodnet/Horizontal-Time-Dependent-Positioning-HTDP`](https://github.com/geodnet/htdp) | Utility enables users to transform positional coordinates across time and between spatial reference frames. | Positioning, Standards |
 
 ## Ecosystem
 
