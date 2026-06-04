@@ -41,7 +41,7 @@ Idea -> Draft IOSP -> Candidate IOSP -> Accepted IOS -> Recommended IOS -> Depre
 
 Start with an issue or discussion before opening a proposal pull request. The goal is to make the problem clear before polishing the solution.
 
-A new IOSP should have a champion: a person or member organization responsible for shepherding the proposal through discussion, revision, and implementation feedback.
+A new IOSP should have a **champion**: a person or member organization responsible for shepherding the proposal through discussion, revision, and implementation feedback.
 
 Each proposal should include:
 
